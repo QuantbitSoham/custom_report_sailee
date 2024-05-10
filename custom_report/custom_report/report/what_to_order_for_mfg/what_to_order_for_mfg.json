@@ -1,0 +1,39 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-01-16 15:46:53.975107",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "letter_head": "Sai-lee letter head",
+ "modified": "2024-02-07 12:12:46.433350",
+ "modified_by": "Administrator",
+ "module": "Custom Report",
+ "name": "What To Order For MFG",
+ "owner": "Administrator",
+ "prepared_report": 1,
+ "ref_doctype": "Production Plan",
+ "report_name": "What To Order For MFG",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Manufacturing User"
+  },
+  {
+   "role": "Manufacturing Create Right 02"
+  },
+  {
+   "role": "Manufacturing Read Only 07"
+  },
+  {
+   "role": "work order read only"
+  },
+  {
+   "role": "Purchase Manager"
+  }
+ ]
+}
